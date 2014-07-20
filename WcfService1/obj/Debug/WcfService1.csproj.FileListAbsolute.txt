@@ -3,3 +3,8 @@ I:\WcfService1\WcfService1\bin\WcfService1.pdb
 I:\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
 I:\WcfService1\WcfService1\obj\Debug\WcfService1.dll
 I:\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+I:\test\test\WcfService1\bin\WcfService1.dll
+I:\test\test\WcfService1\bin\WcfService1.pdb
+I:\test\test\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+I:\test\test\WcfService1\obj\Debug\WcfService1.dll
+I:\test\test\WcfService1\obj\Debug\WcfService1.pdb

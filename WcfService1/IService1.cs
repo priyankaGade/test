@@ -16,6 +16,9 @@ namespace WcfService1
         [OperationContract]
         Profile Login(string username, string password, string deviceToken);
 
+        [OperationContract]
+        Profile Login1(string username, string password, string deviceToken);
+
         // TODO: Add your service operations here
     }
 
